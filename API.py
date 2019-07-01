@@ -69,7 +69,7 @@ for new in range(len(slug_number)):
 		
 
 
-# second API in crieat in funchan---------------------------------------
+# second API in create in function---------------------------------------
 
 
 
